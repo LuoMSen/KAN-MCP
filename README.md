@@ -2,13 +2,13 @@
 
 This repository hosts the official code for the paper “Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis”.
 
-## Overview
+## 📖 Overview
 
 KAN-MCP, a novel framework that integrates the interpretability of Kolmogorov-Arnold Networks (KAN) with the robustness of the Multimodal Clean Pareto (MCPareto) framework.
 
-![model_architecture.png](attachment:0be3d0a2-0ff4-495b-9adf-a5854f2c71e7:model_architecture.png)
+![](./assets/Model.png)
 
-## Datasets and Models Download
+## 🚀 Datasets and Models Download
 
 ### Datasets
 
@@ -21,12 +21,15 @@ https://www.dropbox.com/s/995dvj3506gvk5a/mosei.pkl?dl=1
 
 https://huggingface.co/microsoft/deberta-v3-base
 
-## Quick Start
+## 🚢 Quick Start
 
-1. Clone the repository and install dependencies:
+1. You can quickly set up the environment as follows:
 
 ```yaml
-git clone https://github.com/...
+git clone https://github.com/LuoMSen/KAN-MCP.git
+cd KAN-MCP-main
+conda create -n KANMCP python=3.8
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
