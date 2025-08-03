@@ -1,6 +1,6 @@
 # Kolmogorov-Arnold Networks with the Multimodal Clean Pareto (KAN-MCP)
 
-This repository hosts the official code for the paper “Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis”.
+This repository hosts the official code for the paper “Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis”. KAN-MCP is accepted by ACM MM 2025!
 
 ## 📖 Overview
 
